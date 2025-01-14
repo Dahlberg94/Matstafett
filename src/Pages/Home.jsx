@@ -1,7 +1,7 @@
 import "./Pages.css";
 //Images
 import matstafettLogo from "../assets/Bilder/Stefettlogga.png";
-import pay from "../assets/Bilder/pay.png";
+import pay from "../assets/Bilder/Pay.png";
 import kalender from "../assets/Bilder/Kalender.png";
 
 
