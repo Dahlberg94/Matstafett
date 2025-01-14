@@ -1,6 +1,7 @@
 import "./Pages.css";
 //Images
-import matstafettLogo from "../assets/Bilder/Stefettlogga.png";
+// import matstafettLogo from "../assets/Bilder/Stefettlogga.png";
+import matstafettLogo from "../assets/Bilder/matstafettLogga.png";
 import pay from "../assets/Bilder/Pay.png";
 import kalender from "../assets/Bilder/Kalender.png";
 
@@ -36,7 +37,7 @@ export default function Home() {
       </div>
 
       <div className="rightHomeContainer">
-        <img src={matstafettLogo} alt="" />
+        <img className="matstafett_logga" src={matstafettLogo} alt="" />
 
         <h2>Mat, gemenskap och glädje – välkommen till Kramfors matstafett!</h2>
         <p>
