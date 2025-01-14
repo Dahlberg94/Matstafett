@@ -1,6 +1,6 @@
 import React from "react"
 import { Outlet, NavLink, Link } from "react-router-dom"
-import "./Navbar.css"
+import "./NavBar.css"
 import RT29 from "../assets/Bilder/RT29.png"
 
 
